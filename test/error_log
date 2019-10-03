@@ -1,0 +1,2 @@
+[08-Dec-2018 08:08:13 Africa/Nairobi] PHP Warning:  require_once(test/PHPMailer-master/src/PHPMailer.php): failed to open stream: No such file or directory in /home/quantums/public_html/samplerun/test/test.php on line 7
+[08-Dec-2018 08:08:13 Africa/Nairobi] PHP Fatal error:  require_once(): Failed opening required 'test/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/quantums/public_html/samplerun/test/test.php on line 7
